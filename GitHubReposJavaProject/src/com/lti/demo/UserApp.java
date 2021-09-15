@@ -6,6 +6,7 @@ public class UserApp {
 		
 		Product p= new Product(101,"Mobile", 5000);
 		System.out.println(p);
+		System.out.println("First change added");
 	}
 
 }
